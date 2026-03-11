@@ -17,9 +17,9 @@
 
 ### about
 
-full stack developer. i write code the same way most people scroll — compulsively and without a clear end goal.
+I'm bouta blow yo minds up💥, jokes aside i'm still new and learning everyday with this languages. Invest in ME! through love and pray so that i can blind myself with positivity❤️
+So far the most hardest language i trying to learn is to understand HER..
 
-when i'm not debugging things that were never supposed to break, i'm building web things with **React** and **Node** that range from mildly useful to entirely unnecessary.
 
 ---
 
